@@ -25,4 +25,5 @@ export const proyectos = [
   { id: 2, titulo: 'Bitácora Docente Pro', descripcion: 'Aplicación de bitácora docente desarrollada en Java.', repo: 'https://github.com/Alexduoc/BitacoraDocentePro-Pina-Rios-010D', imagen: 'bitacorapro2.png' },
   { id: 3, titulo: 'Zona Libros', descripcion: 'Caso 2 del curso, desarrollado en JavaScript.', repo: 'https://github.com/Alexduoc/Caso-2-Zona-Libros', imagen: 'zonalibros.png' },
   { id: 4, titulo: 'DecoHogar', descripcion: 'Evaluación parcial n°1: sitio web en HTML.', repo: 'https://github.com/Alexduoc/DecoHogar', imagen: 'decohogar.png' },
+  { id: 5, titulo: 'Portafolio Personal', descripcion: 'Portafolio hecho con React, Ant Design, Atomic Design y pruebas con Vitest.', repo: 'https://github.com/Alexduoc/Portafolio-personal', imagen: 'portfoliofoto.png' },
 ]
