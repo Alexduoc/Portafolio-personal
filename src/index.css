@@ -1,0 +1,16 @@
+:root {
+  color-scheme: dark;
+  --bg: #14171a;
+  --surface: #1d2126;
+  --text: #aab2bb;
+  --text-h: #eceff3;
+  --accent: #9fb4c9;
+  --accent-bg: rgba(159, 180, 201, 0.12);
+  --border: #2c333b;
+  --shadow: 0 6px 24px rgba(0, 0, 0, 0.45);
+  --heading: 'Fraunces', Georgia, serif;
+  --body: 'Inter', system-ui, sans-serif;
+}
+* { box-sizing: border-box; }
+html { scroll-behavior: smooth; }
+body { margin: 0; background: var(--bg); color: var(--text); font-family: var(--body); line-height: 1.6; }
